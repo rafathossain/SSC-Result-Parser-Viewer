@@ -29,6 +29,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[Rafat Hossain](https://facebook.com/rafat.hossain.12) - sayhi@rafat.me
+[Rafat Hossain](https://facebook.com/rafat.hossain.xyz) - sayhi@rafat.me
 
 Project Link: [https://github.com/rafathossain96/SSC-Result-Parser-Viewer](https://github.com/rafathossain96/SSC-Result-Parser-Viewer)
